@@ -6,6 +6,6 @@ A Spring Boot Angular Boiler
 - IntelliJ add Modules
   - Frontend
   - Backend
-  cd frontend
-  npm install
+- cd frontend
+- npm install
   
